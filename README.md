@@ -2,7 +2,7 @@
 
 ## Objective
 
-Model the impact on electricity prices of residential solar adoption 
+Model the impact of residential solar adoption on electricity prices
 
 ## Methodology
 
