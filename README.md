@@ -49,12 +49,12 @@ The following 2 data files need to be downloaded and saved in the working direct
 The data files listed above, updated for a Pittsburgh simulation, can be found in data_file section in this repository 
 
 
-### Execution Terminal Commands
-To execute the program save sim.py and solarModel.py in the working directory and run the following command:
-python3 sim.py initial_ssa target_ssa time_horizon latitude longitude
+### Terminal Command
+To execute the program save sim.py and solarModel.py in the working directory and run the following command:<br />
+*python3 sim.py initial_ssa target_ssa time_horizon latitude longitude*
 
-An example of a command for a Pittsburgh simulation is shown below:
-python3 sim.py 0.005 0.2 6 40.5 -80.233 <br /><br />
+An example of the command for a Pittsburgh simulation is shown below:<br />
+*python3 sim.py 0.005 0.2 6 40.5 -80.233*
 
 
 ### Testing Execution
