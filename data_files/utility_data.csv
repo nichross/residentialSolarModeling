@@ -1,0 +1,13 @@
+﻿Location,Service Type,Rate Name,Cost Type,Period,Start Month,Rate ($/kWh),Adjustments ($/kWh),Fixed Rate ($/mo)
+"(40.5, -80.233)",Delivery,Heating,Variable,1,11,0.045677,0.012247,N/A
+"(40.5, -80.233)",Delivery,Heating,Variable,2,5,0.060233,0.012667,N/A
+"(40.5, -80.233)",Delivery,Other,Variable,1,1,0.060233,0.012567,N/A
+"(40.5, -80.233)",Delivery,N/A,Fixed,N/A,N/A,N/A,N/A,12.5
+"(40.5, -80.233)",Standard Offer,Heating,Variable,1,11,0.104499,0.015919,N/A
+"(40.5, -80.233)",Standard Offer,Heating,Variable,2,5,0.119055,0.01694,N/A
+"(40.5, -80.233)",Standard Offer,Other,Variable,1,1,0.126674,0.01718,N/A
+"(40.5, -80.233)",Standard Offer,N/A,Fixed,N/A,1,N/A,N/A,12.5
+"(38.867, -77.033)",Standard Offer,Other,Variable,1,6,0.008,0.01622,N/A
+"(38.867, -77.033)",Standard Offer,Other,Variable,2,11,0.07347,0.01622,N/A
+"(38.867, -77.033)",Standard Offer,Other,Variable,3,N/A,0.0883,0.01622,N/A
+"(38.867, -77.033)",Standard Offer,N/A,Fixed,N/A,N/A,N/A,N/A,15.09
