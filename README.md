@@ -21,7 +21,7 @@ different strageties to mitigate the losses to energy suppliers associated with 
 * Longitude: Float specifying the longitude of the closest TMY3 weather station to the region of interest
 
 ### Outputs
-* Results: CSV containing each year in the time horizon and the cost per impacted customer associated with stargety 1, 2, and 3 for that year
+* Results: A csv file containing each year in the time horizon and the annual cost per customer associated with stragety 1, 2, and 3 (listed above)
 
 ## Program Execution
 
