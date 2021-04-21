@@ -46,7 +46,7 @@ The following 2 data files need to be downloaded and saved in the working direct
 2) Residential Solar Production Data: A csv file containing the hourly energy production of a solar equipped house as calculated by the NREL System Advisor Model (PySam).
   NREL instructions for using PySam can be found [here](https://github.com/NREL/pysam)
 
-The data files listed above, updated for a Pittsburgh simulation, can be found in data_file section in this repository 
+The data files listed above, updated for a Pittsburgh simulation, can be found in data_files folder of this repository 
 
 
 ### Terminal Command
