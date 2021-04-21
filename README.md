@@ -6,7 +6,7 @@ Model the impact on electricity prices of residential solar adoption
 
 ## Methodology
 
-The program takes as inputs the initial and target solar set-asides from the user over a specified time horizon. A solar set-aside is the percent 
+The program takes as inputs the initial and target solar set-asides over a time horizon where a solar set-aside is the percent 
 of energy consumption that must come from local solar generation. The program then outputs a csv file containing and costs to consumers associated with three
 different strageties to mitigate the losses to energy suppliers associated with residentiar solar adoption:
 1) Increasing the fixed costs for all customers
